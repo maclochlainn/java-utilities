@@ -1,6 +1,6 @@
 /*
 ||  Program name:     FileIO.java
-||  Created by:       Michael McLaughlin | Copyright 2002
+||  Created by:       Michael McLaughlin | Copyright 2014
 ||  Creation date:    04/22/02
 ||  History:
 || ----------------------------------------------------------------------
